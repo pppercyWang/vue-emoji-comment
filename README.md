@@ -9,7 +9,7 @@
 
 这里推荐一个做精灵图的在线地址：https://sprite.ydr.me/
 
-### 个人博客：http://106.12.221.34  （待完成）
+##### 个人博客：https://github.com/pppercyWang/twitter-blog-vue  （待完成）
 
 ### Project setup
 ```
