@@ -1,6 +1,6 @@
 # vue-emoji-comment
 
-![image](https://github.com/pppercyWang/vue-emoji-comment/blob/master/static/shop.gif)
+![image](https://github.com/pppercyWang/vue-emoji-comment/blob/master/src/assets/img/demo_comment.gif)
 
 ## Project setup
 ```
