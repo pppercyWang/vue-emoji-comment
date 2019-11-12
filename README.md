@@ -1,5 +1,7 @@
 # vue-emoji-comment
 
+![image](https://github.com/pppercyWang/vue-emoji-comment/blob/master/static/shop.gif)
+
 ## Project setup
 ```
 yarn install
